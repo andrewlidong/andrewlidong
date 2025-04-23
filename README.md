@@ -10,4 +10,4 @@
 
 ### Welcome to my GitHub!
 
-Come checkout my [garden](https://andrewlidong.xyz/)
+Come visit my [garden](https://andrewlidong.xyz/)
